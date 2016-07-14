@@ -1,9 +1,0 @@
-Changes
-MANIFEST
-Makefile.PL
-README
-unhodor.pl
-lib/Acme/Hodor.pm
-t/hodor.t
-demo/demo_hodor.pl
-META.yml                                 Module meta-data (added by MakeMaker)
